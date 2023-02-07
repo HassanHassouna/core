@@ -2,23 +2,19 @@
   "options": [
     {
       "label": "First Name",
-      "value": "firstName",
-      "icon": "🇳🇱"
+      "value": "firstName"
     },
     {
       "label": "Second Name",
-      "value": "secondName",
-      "icon": "🇳🇱"
+      "value": "secondName"
     },
     {
       "label": "Age",
-      "value": "age",
-      "icon": ""
+      "value": "age"
     },
     {
       "label": "Hobbie",
-      "value": "hobbie",
-      "icon": ""
+      "value": "hobbie"
     }
   ]
 }
