@@ -1,4 +1,4 @@
-import { FC } from "react"
+import { FC, useEffect, useState } from "react"
 
 interface ISelectProps {
   options: Array<IOptions>
@@ -6,6 +6,7 @@ interface ISelectProps {
   style?: IStyles
   placeholder?: string
   icon?: string
+  search?: ISearch
 }
 
 interface IOptions {
@@ -15,6 +16,10 @@ interface IOptions {
 }
 
 interface IStyles {
+  [key: string]: string
+}
+
+interface ISearch {
   [key: string]: string
 }
 
