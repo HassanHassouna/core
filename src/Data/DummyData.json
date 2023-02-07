@@ -1,0 +1,24 @@
+{
+  "options": [
+    {
+      "label": "First Name",
+      "value": "firstName",
+      "icon": "🇳🇱"
+    },
+    {
+      "label": "Second Name",
+      "value": "secondName",
+      "icon": "🇳🇱"
+    },
+    {
+      "label": "Age",
+      "value": "age",
+      "icon": ""
+    },
+    {
+      "label": "Hobbie",
+      "value": "hobbie",
+      "icon": ""
+    }
+  ]
+}
